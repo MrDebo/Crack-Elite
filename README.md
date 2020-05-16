@@ -7,7 +7,7 @@
 <li><code>$ pip2 install requests</code></li>
 <li><code>$ pkg install git</code></li>
 <li><code>$ git clone https://github.com/MrDebo/Crack-Elite</code></li>
-<li><code>$ cd New-Elite</code></li>
+<li><code>$ cd Crack-Elite</code></li>
 <li><code>$ ls</code></li>
 <li><code>$ python2 dark.py</code></li>
 <ul>
